@@ -59,7 +59,6 @@ cd StudentManagementSystem/frontend</code></pre>
     <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
   <h2>Contact</h2>
-    <p>Your Name - <a href="https://twitter.com/your_twitter">@your_twitter</a> - email@example.com</p>
     <p>Project Link: <a href="https://github.com/Saranjosh/StudentManagementSystem">https://github.com/Saranjosh/StudentManagementSystem</a></p>
 </body>
 
