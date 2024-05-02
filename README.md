@@ -2,7 +2,8 @@
 <body>
     <h1>Student Management System - Frontend</h1>
     <p>The frontend of the Student Management System is built using React. This component of the system is designed to provide a responsive user interface for managing student data, including creating, viewing, updating, and deleting student records. It also includes a search feature to quickly find specific student profiles.</p>
-  
+  ![2024-05-0211-00-18-ezgif com-crop](https://github.com/Saranjosh/StudentManagementSystem/assets/84576650/d711b094-a0c6-402f-acc9-ac260c3a8542)
+
   <h2>Features</h2>
     <ul>
         <li><strong>Create Student Profiles:</strong> Allows users to add new student data into the system.</li>
