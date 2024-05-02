@@ -59,6 +59,7 @@ cd StudentManagementSystem/frontend</code></pre>
     <p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
   <h2>Contact</h2>
+    <p>Name: Khandavalli Saran Josh</p>
     <p>Project Link: <a href="https://github.com/Saranjosh/StudentManagementSystem">https://github.com/Saranjosh/StudentManagementSystem</a></p>
 </body>
 
