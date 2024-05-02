@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Management System - Frontend</title>
-</head>
+
 <body>
     <h1>Student Management System - Frontend</h1>
     <p>The frontend of the Student Management System is built using React. This component of the system is designed to provide a responsive user interface for managing student data, including creating, viewing, updating, and deleting student records. It also includes a search feature to quickly find specific student profiles.</p>
@@ -62,4 +56,4 @@ cd StudentManagementSystem/frontend</code></pre>
     <p>Your Name - <a href="https://twitter.com/your_twitter">@your_twitter</a> - email@example.com</p>
     <p>Project Link: <a href="https://github.com/Saranjosh/StudentManagementSystem">https://github.com/Saranjosh/StudentManagementSystem</a></p>
 </body>
-</html>
+
